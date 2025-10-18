@@ -1,7 +1,5 @@
 # eCourts Cause List Downloader
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
-
 A user-friendly **Streamlit web application** designed to scrape and download **cause lists** from the official [eCourts Services](https://services.ecourts.gov.in/ecourtindia_v6/?p=cause_list/) portal in India. It automates the selection of states, districts, court complexes, and other filters, solves CAPTCHAs using OCR, and exports the results as a downloadable CSV file.
 
 This tool is particularly useful for legal professionals, researchers, or anyone needing quick access to daily court cause lists (civil or criminal cases) without manual browser navigation.
