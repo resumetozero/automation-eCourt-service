@@ -14,6 +14,7 @@ This tool is particularly useful for legal professionals, researchers, or anyone
 - **CSV Export**: Extracts table data into a clean, downloadable CSV file with headers and rows.
 - **Error Handling**: Graceful fallbacks for no data, failed CAPTCHAs, or page issues.
 - **Session Persistence**: Maintains browser state across interactions.
+- video: https://drive.google.com/file/d/1DBMu2fgTCS_kDekqvV7I1hgWgAWmwERp/view?usp=drive_link
 
 ## 📋 Prerequisites
 
