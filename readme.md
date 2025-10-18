@@ -80,16 +80,9 @@ This tool is particularly useful for legal professionals, researchers, or anyone
 - `requirements.txt`: All Python dependencies.
 
 ## 🖼 Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Select+State+District+etc.)  
-*(Dropdowns for filters and date/case type selection)*
-
 ### Fetching Results
-![Results](https://via.placeholder.com/800x200?text=Download+CSV+Button)  
+![Video]([https://drive.google.com/file/d/1DBMu2fgTCS_kDekqvV7I1hgWgAWmwERp/view?usp=sharing])  
 *(CAPTCHA solving spinner → Success message with download link)*
-
-*(Add actual screenshots to `/docs` folder and link them here for better visuals.)*
 
 ## ⚠️ Limitations & Notes
 
