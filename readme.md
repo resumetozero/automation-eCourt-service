@@ -80,9 +80,8 @@ This tool is particularly useful for legal professionals, researchers, or anyone
 - `requirements.txt`: All Python dependencies.
 
 ## 🖼 Screenshots
-### Fetching Results
-![Video]([https://drive.google.com/file/d/1DBMu2fgTCS_kDekqvV7I1hgWgAWmwERp/view?usp=sharing])  
-*(CAPTCHA solving spinner → Success message with download link)*
+![product Screenshot](screen.png)
+
 
 ## ⚠️ Limitations & Notes
 
